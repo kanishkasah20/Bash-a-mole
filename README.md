@@ -15,3 +15,6 @@ Whack as many moles as you can, within 60 seconds.
 HTML , Css, Javascript
 
 ## Play here:- https://gregarious-heliotrope-5eba2c.netlify.app/
+
+Demo Screenshot:-
+<img width="905" alt="Screenshot 2023-07-29 162654" src="https://github.com/kanishkasah20/Bash-a-mole/assets/114860158/9e7c5873-1ed1-4f57-a324-08e9a1c8fc2e">
