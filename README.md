@@ -14,4 +14,4 @@ Whack as many moles as you can, within 60 seconds.
 # Tech stack
 HTML , Css, Javascript
 
-## Play here:- 
+## Play here:- https://gregarious-heliotrope-5eba2c.netlify.app/
